@@ -25,5 +25,5 @@ p6df::modules::statuspage::deps() {
 ######################################################################
 p6df::modules::statuspage::profile::mod() {
 
-  p6_return_words 'statuspage' '$STATUSPAGE_API_KEY'
+  p6_return_words 'statuspage' "$"
 }
