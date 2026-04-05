@@ -15,10 +15,10 @@ p6df::modules::statuspage::deps() {
 ######################################################################
 #<
 #
-# Function: words statuspage $STATUSPAGE_API_KEY = p6df::modules::statuspage::profile::mod()
+# Function: words statuspage = p6df::modules::statuspage::profile::mod()
 #
 #  Returns:
-#	words - statuspage $STATUSPAGE_API_KEY
+#	words - statuspage
 #
 #  Environment:	 STATUSPAGE_API_KEY
 #>

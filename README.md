@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-statuspage/init.zsh
 
 - `p6df::modules::statuspage::deps()`
-- `words statuspage $STATUSPAGE_API_KEY = p6df::modules::statuspage::profile::mod()`
+- `words statuspage = p6df::modules::statuspage::profile::mod()`
 
 ## Hierarchy
 
